@@ -1,14 +1,14 @@
-# Hi there, I'm Nafisat Larissa Ibrahim 🤝
+# Hi! 👋 I'm COMPAORE Yolemba Harold Judicaël
 
-🔍 Aspiring Data Scientist | 📊 Data-Driven Problem Solver | 🤖 AI Enthusiast  
-Passionate about leveraging data, machine learning, and AI to create innovative solutions and drive informed decision-making.
+🔍 Junior Data Scientist | 📊 Machine Learning & Statistical Analysis Enthusiast 
+Passionate about harnessing data insights to drive meaningful and impactful decisions.
 
 [![Resume](https://img.shields.io/badge/My%20Resume-red?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/202422/202422.github.io/blob/main/COMPAORE_Harold_Resume.pdf)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harold18/)
 
 ## About Me ✨
 - 📊 Aspiring Data Scientist and Machine Learning Enthusiast with academic and industry experience.
-- 🏦 Experience as a Data Analyst and Business Analyst, combining technical expertise with business insights.
-- 🎓 Mathematics major with a minor in Data Analytics (3.8 GPA) from the University of North Texas.
-- 🌐 Bilingual: Fluent in English and Native in French, enabling global collaboration.
-- 🔍 Proven ability to turn data into actionable insights through predictive modeling, machine learning, and advanced analytics.
+- 🏦 Experience as a Data scientist and Machine learning/Deep learning researcher.
+- 🎓 Second Year student at ENSIAS, National Higher School of Computer Science and Systems Analysis, with a DEUG in mathematics.
+- 🌐 Bilingual: Proficient in English and native in French, facilitating seamless global collaboration.
+- 🔍 Demonstrated expertise in transforming data into actionable insights using predictive modeling, machine learning, and advanced analytics.
