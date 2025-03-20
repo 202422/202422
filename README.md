@@ -3,8 +3,8 @@
 🔍 Aspiring Data Scientist | 📊 Data-Driven Problem Solver | 🤖 AI Enthusiast  
 Passionate about leveraging data, machine learning, and AI to create innovative solutions and drive informed decision-making.
 
-[![Resume](https://img.shields.io/badge/My%20Resume-red?style=flat-square&logo=google-chrome&logoColor=white)]()
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nafisat-ibrahim-14508725a)
+[![Resume](https://img.shields.io/badge/My%20Resume-red?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/202422/202422.github.io/blob/main/COMPAORE_Harold_Resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harold18/)
 
 ## About Me ✨
 - 📊 Aspiring Data Scientist and Machine Learning Enthusiast with academic and industry experience.
