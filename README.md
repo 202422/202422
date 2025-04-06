@@ -8,7 +8,7 @@ Passionate about harnessing data insights to drive meaningful and impactful deci
 
 ## About Me ✨
 - 📊 Aspiring Data Scientist and Machine Learning Enthusiast with academic and industry experience.
-- 🏦 Experience as a Data scientist intern at ![Technocolabs Software](https://www.technocolabs.com/) and Machine learning/Deep learning researcher at ![ENSIAS](https://ensias.um5.ac.ma/).
+- 🏦 Experience as a Data scientist intern at [Technocolabs Software](https://www.technocolabs.com/) and Machine learning/Deep learning researcher at [ENSIAS](https://ensias.um5.ac.ma/).
 - 🎓 Second Year student at ENSIAS, National Higher School of Computer Science and Systems Analysis, with a DEUG in mathematics.
 - 🌐 Bilingual: Proficient in English and native in French, facilitating seamless global collaboration.
 - 🔍 Demonstrated expertise in transforming data into actionable insights using predictive modeling, machine learning, and advanced analytics.
