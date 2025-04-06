@@ -12,3 +12,14 @@ Passionate about harnessing data insights to drive meaningful and impactful deci
 - 🎓 Second Year student at ENSIAS, National Higher School of Computer Science and Systems Analysis, with a DEUG in mathematics.
 - 🌐 Bilingual: Proficient in English and native in French, facilitating seamless global collaboration.
 - 🔍 Demonstrated expertise in transforming data into actionable insights using predictive modeling, machine learning, and advanced analytics.
+
+
+## Core Skills 🛠️
+
+| **Category**               | **Tools/Technologies**                                               |
+|----------------------------|--------------------------------------------------------------------|
+| **Programming Languages**  | Python (NumPy, Pandas, Scikit-learn), SQL, R, JavaScript, HTML, CSS, SAS |
+| **Data Visualization**     | Tableau, Power BI, Matplotlib, Seaborn                            |
+| **Statistical Analysis**        | Exploratory Data Analysis, Hypothesis Testing                |
+| **Machine Learning**       | Random Forest, Regression, Collaborative Filtering                |
+| **Web Development**        | React, Node.js, HTML, CSS, JavaScript                             |
