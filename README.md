@@ -21,5 +21,19 @@ Passionate about harnessing data insights to drive meaningful and impactful deci
 | **Programming Languages**  | Python (NumPy, Pandas, Scikit-learn, Tensorflow, keras, HDBSCAN), SQL, R, Java |
 | **Data Visualization**     | Tableau, Matplotlib, seaborn, plotly express                            |
 | **Statistical Analysis**   | Exploratory Data Analysis, Hypothesis Testing                |
-| **Machine Learning**       | Regression, Classification, Clustering                |
+| **Machine Learning**       | LinearRegression, SVM, RandomForest, AdaBoost, DecisionTree, KNN, GradientBoosting, LogisticRegressor, KMeans, DBSCAN                |
+| **Deep Learning**   | MLP, RNN, LSTM, CNN          |
 | **Web Development**        | J2EE, html, css, Eclipse, MySQL, PHP, LARAVEL                             |
+
+
+## Education 🎓
+- **National Higher School of Computer Science and Systems Analysis (ENSIAS)**  
+  **Engineer’s degree**, Data Science and IoT  
+  *2023.09 - 2026.07*     
+  **Relevant Coursework**: J2ee Web Developpment, Statistics, Data Visualization, DataBases,  Network, Machine Learning, Deep Learning,  NLP, ETL.
+
+- **Faculty of science/University Abdelmalek ESSAADI Tétouan**  
+  **DEUG (General Academic Studies Diploma)**, Mathematics and computer science       
+  *2021.09 - 2023.07*     
+  **Relevant Coursework**: Calculus, Algebra, Probability, Algorithmics, Data Structures, Thermodynamics, Mechanics
+
