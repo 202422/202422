@@ -13,6 +13,9 @@ Passionate about harnessing data insights to drive meaningful and impactful deci
 - 🌐 Bilingual: Proficient in English and native in French, facilitating seamless global collaboration.
 - 🔍 Demonstrated expertise in transforming data into actionable insights using predictive modeling, machine learning, and advanced analytics.
 
+## ✍️ Meaningful quote
+![](assets/Quote.png)
+
 
 ## Technical Skills 🛠️
 
