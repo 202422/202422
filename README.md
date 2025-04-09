@@ -14,7 +14,7 @@ Passionate about harnessing data insights to drive meaningful and impactful deci
 - 🔍 Demonstrated expertise in transforming data into actionable insights using predictive modeling, machine learning, and advanced analytics.
 
 ## ✍️ Meaningful quote
-![](assets/Quote.png)
+![](assets/Quote2.png)
 
 
 ## Technical Skills 🛠️
