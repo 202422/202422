@@ -14,7 +14,7 @@ Passionate about harnessing data insights to drive meaningful and impactful deci
 - 🔍 Demonstrated expertise in transforming data into actionable insights using predictive modeling, machine learning, and advanced analytics.
 
 ## ✍️ Meaningful quote
-![](assets/Quote2.png)
+*African proverb*: **`He who lived without being noticed will die without being noticed`**
 
 
 ## Technical Skills 🛠️
