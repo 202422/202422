@@ -3,7 +3,7 @@
 🔍 Junior Data Scientist | 📊 Machine Learning & Statistical Analysis Enthusiast 
 Passionate about harnessing data insights to drive meaningful and impactful decisions.
 
-[![Resume](https://img.shields.io/badge/My%20Resume-red?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/202422/202422/blob/main/Resume_COMPAORE_Yolemba_Harold.pdf)
+[![Resume](https://img.shields.io/badge/My%20Resume-red?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/202422/202422/blob/main/Resume)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harold18/)
 
 ## About Me ✨
