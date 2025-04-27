@@ -73,3 +73,24 @@ During this internship, the project I worked on involved imputing values into da
   *2021.09 - 2023.07*     
   **Relevant Coursework**: Calculus, Algebra, Probability, Algorithmics, Data Structures, Thermodynamics, Mechanics
 
+---
+
+## Certifications 🏅
+
+- **Machine Learning with Python** — *IBM*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/F92GS6DEN8CU)  
+  *Issued: May 2024*  
+  I learned how to:
+  - Apply data preparation techniques and manage bias-variance tradeoffs to optimize model performance. 
+  - Implement core machine learning algorithms, including linear regression, decision trees, kmeans and SVM, for classification, regression and clustering tasks.
+  - Evaluate model performance using metrics, cross-validation, and hyperparameter tuning to ensure accuracy and reliability. 
+
+- **Exploratory Data Analysis for Machine Learning** — *IBM*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/E7Q9D1E6UYD6)  
+  *Issued: August 2024*  
+  I learned how to:
+  - Retrieve data from multiple data sources: SQL, NoSQL databases, APIs, Cloud 
+  - Describe and use common feature selection and feature engineering techniques
+  - Handle categorical and ordinal features, as well as missing values
+  - Use a variety of techniques for detecting and dealing with outliers
+  - Use a variety of scaling techniques
