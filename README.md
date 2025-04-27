@@ -1,96 +1,95 @@
-# Hi! 👋 I'm COMPAORE Yolemba Harold Judicaël
+# Salut ! 👋 Je suis COMPAORE Yolemba Harold Judicaël
 
-🔍 Junior Data Scientist | 📊 Machine Learning & Statistical Analysis Enthusiast 
-Passionate about harnessing data insights to drive meaningful and impactful decisions.
+🔍 Junior Data Scientist | 📊 Passionné de Machine Learning et d'Analyse Statistique | Passionné par l'exploitation des données pour générer des décisions significatives et impactantes.
 
-[![Resume](https://img.shields.io/badge/My%20Resume-red?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/202422/202422/blob/main/Resume)
+[![CV](https://img.shields.io/badge/Mon%20CV-red?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/202422/202422/blob/main/Resume)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harold18/)
 
-## About Me ✨
-- 📊 Aspiring Data Scientist and Machine Learning Enthusiast with academic and industry experience.
-- 🏦 Experience as a Data scientist intern at [Technocolabs Software](https://www.technocolabs.com/) and Machine learning/Deep learning researcher at [ENSIAS](https://ensias.um5.ac.ma/).
-- 🎓 Second Year student at ENSIAS, National Higher School of Computer Science and Systems Analysis, with a DEUG in mathematics.
-- 🌐 Bilingual: Proficient in English and native in French, facilitating seamless global collaboration.
-- 🔍 Demonstrated expertise in transforming data into actionable insights using predictive modeling, machine learning, and advanced analytics.
+## À propos de moi ✨
+- 📊 Jeune Data Scientist passionné de Machine Learning avec des expériences académiques et professionnelles.
+- 🏦 Expérience en tant que Data Scientist stagiaire chez [Technocolabs Software](https://www.technocolabs.com/) et chercheur en Machine Learning/Deep Learning à [l'ENSIAS](https://ensias.um5.ac.ma/).
+- 🎓 Étudiant en deuxième année à l'ENSIAS (École Nationale Supérieure d'Informatique et d'Analyse de Systèmes), titulaire d'un DEUG en mathématiques.
+- 🌐 Bilingue : Maîtrise de l'anglais et langue maternelle française, facilitant la collaboration internationale.
+- 🔍 Expertise démontrée dans la transformation des données en informations exploitables via le machine learning, le modèle prédictif et l’analyse avancée.
 
-## ✍️ Meaningful quotes
-*African proverb*: **`He who lived without being noticed will die without being noticed`**
+## ✍️ Citations Inspirantes
+*Proverbe africain* : **`Celui qui a vécu sans qu'on s'en aperçoive mourra sans qu'on s'en aperçoive`**
 
-*Ralph Waldo Emerson*: **`To know even one life has breathed easier because you have lived. This is to have succeeded`**
+*Ralph Waldo Emerson* : **`Savoir qu’une seule vie a respiré plus aisément parce que vous avez vécu, c’est avoir réussi`**
 
-*Denzel Washington*: **`Without commitment, you'll never start. But more importantly, without consistency, you'll never finish`**
+*Denzel Washington* : **`Sans engagement, vous ne commencerez jamais. Mais plus important encore, sans constance, vous n’achèverez jamais`**
 
+## Compétences Techniques 🛠️
 
-## Technical Skills 🛠️
+| **Catégorie**               | **Outils/Technologies**                                               |
+|------------------------------|-----------------------------------------------------------------------|
+| **Langages de Programmation** | Python (NumPy, Pandas, Scikit-learn, Tensorflow, keras, HDBSCAN), SQL, R, Java |
+| **Visualisation de Données**  | Tableau, Matplotlib, seaborn, plotly express                         |
+| **Analyse Statistique**       | Analyse exploratoire des données, Tests d'hypothèses                |
+| **Machine Learning**          | LinearRegression, SVM, RandomForest, AdaBoost, DecisionTree, KNN, GradientBoosting, LogisticRegressor, KMeans, DBSCAN |
+| **Deep Learning**             | MLP, RNN, LSTM, CNN                                                  |
+| **Développement Web**         | J2EE, HTML, CSS, Eclipse, MySQL, PHP, LARAVEL                        |
 
-| **Category**               | **Tools/Technologies**                                               |
-|----------------------------|--------------------------------------------------------------------|
-| **Programming Languages**  | Python (NumPy, Pandas, Scikit-learn, Tensorflow, keras, HDBSCAN), SQL, R, Java |
-| **Data Visualization**     | Tableau, Matplotlib, seaborn, plotly express                            |
-| **Statistical Analysis**   | Exploratory Data Analysis, Hypothesis Testing                |
-| **Machine Learning**       | LinearRegression, SVM, RandomForest, AdaBoost, DecisionTree, KNN, GradientBoosting, LogisticRegressor, KMeans, DBSCAN                |
-| **Deep Learning**   | MLP, RNN, LSTM, CNN          |
-| **Web Development**        | J2EE, html, css, Eclipse, MySQL, PHP, LARAVEL                             |
+## Expériences Professionnelles 💼
 
-## Experience 💼
+### **Stagiaire Data Scientist**  
+**[Technocolabs Software](https://www.technocolabs.com/)**, Inde, Télétravail (Juin 2024 - Août 2024)
 
-### **Data Scientist Intern**  
-**[Technocolabs Software](https://www.technocolabs.com/)**, India, Remote (Jun 2024 - Aug 2024) 
+Au cours de ce stage, j'ai travaillé sur un projet visant à prédire le statut actuel d'une startup. L'objectif principal était de classer les startups en quatre catégories : en activité, entrée en bourse, acquise ou fermée. Mes principales missions :
 
-During this internship, I worked on a project focused on predicting the current status of a startup. The main goal was to classify startups as either Operating, IPO, Acquired, or Closed. To achieve this, I performed a variety of tasks, including:
+- Nettoyage du jeu de données en supprimant les informations redondantes et non pertinentes, traitement des valeurs manquantes et des outliers, transformation des variables temporelles (modification de la forme du dataset de (196 553, 44) à (57 660, 16)).
+- Analyse univariée, bivariée et multivariée pour extraire des insights pertinents.
+- Ingénierie des caractéristiques : application de la transformation logarithmique, standardisation, création de 4 nouvelles variables et encodage des variables.
+- Oversampling pour équilibrer les classes (création de plus de 100 000 nouvelles instances).
+- Modélisation avec des algorithmes comme LogisticRegression, GaussianNB, AdaBoostClassifier, GradientBoostingClassifier, atteignant une précision de 0,99 en classification binaire et de 1,0 en classification multi-classes.
 
-- cleaning original dataset by deleting redundant and irrelevant information, handling missing data and outliers and date variables transformation. This changed dataset shape from (196 553, 44) to (57 660, 16)
-- applying univariate, bivariate and multivariate analysis in order to find out insights in data. 
-- performing feature engineering by applying log transformation, standardisation, creating 4 new features and encoding variables; 
-- oversampling to balance classes by creating over 100 000 new instances
-- modelling using algorithms like LogisticRegression, GaussianNB, AdaBoostClassifier, GradientBoostingClassifier to achieve accuracy of 0.99 in binary classification and 1.0 in multiclass classification
-
-[Project Repository here](https://github.com/202422/Startup-Operational-Status-prediction-using-Machine-learning)
-
----
-
-### **Machine Learning Research Intern**  
-**[ENSIAS](https://ensias.um5.ac.ma/)**, Rabat, On site (June 2024 – July 2024)  
-
-During this internship, the project I worked on involved imputing values into datasets with different percentages of missingness (5%, 10%, 20%, 30%, 40%, 50%). The approach used here was training machine learning and deep learning models on these datasets. Main tasks:
-
-- Implementing an algorithm to convert a time series dataset into sequences of fixed size (10) to prepare it for supervised learning
-- Designing an algorithm to systematically scans the dataset to detect all occurrences of TS-MD (Time Series Missing Data) and train a model to impute this missing values
-- Training ML/DL models like SVR, RNN, and LSTM on the training set and comparing their performance on test set. SVR performed best, with a median RMSE (Root Mean Squared Error) value of 7.473013.
-
-[Project Repository here](https://github.com/202422/Time_series_Imputation_using_ML-DL)
+[Repository du projet ici](https://github.com/202422/Startup-Operational-Status-prediction-using-Machine-learning)
 
 ---
 
-## Education 🎓
-- **National Higher School of Computer Science and Systems Analysis (ENSIAS)**  
-  **Engineer’s degree**, Data Science and IoT  
-  *2023.09 - 2026.07*     
-  **Relevant Coursework**: J2ee Web Developpment, Statistics, Data Visualization, DataBases,  Network, Machine Learning, Deep Learning,  NLP, ETL.
+### **Stagiaire Chercheur en Machine Learning**  
+**[ENSIAS](https://ensias.um5.ac.ma/)**, Rabat, Présentiel (Juin 2024 – Juillet 2024)
 
-- **Faculty of science/University Abdelmalek ESSAADI Tétouan**  
-  **DEUG (General Academic Studies Diploma)**, Mathematics and computer science       
-  *2021.09 - 2023.07*     
-  **Relevant Coursework**: Calculus, Algebra, Probability, Algorithmics, Data Structures, Thermodynamics, Mechanics
+Durant ce stage, le projet portait sur l'imputation de données manquantes dans des séries temporelles à différents niveaux de missingness (5%, 10%, 20%, 30%, 40%, 50%). Les principales missions :
+
+- Implémentation d'un algorithme pour transformer une série temporelle en séquences de taille fixe (10) pour l’apprentissage supervisé.
+- Développement d'un algorithme permettant de détecter toutes les occurrences de données manquantes dans les séries temporelles et d'entraîner un modèle pour les imputer.
+- Entraînement de modèles de ML/DL comme SVR, RNN et LSTM, et comparaison de leurs performances sur un ensemble de test. Le modèle SVR a obtenu les meilleurs résultats avec une RMSE médiane de 7.473013.
+
+[Repository du projet ici](https://github.com/202422/Time_series_Imputation_using_ML-DL)
+
+---
+
+## Formation 🎓
+- **École Nationale Supérieure d'Informatique et d'Analyse de Systèmes (ENSIAS)**  
+  **Diplôme d'Ingénieur**, Data Science et IoT  
+  *09/2023 - 07/2026*  
+  **Cours Relevants** : Développement Web J2EE, Statistiques, Visualisation de données, Bases de données, Réseaux, Machine Learning, Deep Learning, NLP, ETL.
+
+- **Faculté des Sciences / Université Abdelmalek ESSAADI Tétouan**  
+  **DEUG (Diplôme d'Études Universitaires Générales)**, Mathématiques et Informatique  
+  *09/2021 - 07/2023*  
+  **Cours Relevants** : Calcul, Algèbre, Probabilités, Algorithmique, Structures de données, Thermodynamique, Mécanique
 
 ---
 
 ## Certifications 🏅
 
 - **Machine Learning with Python** — *IBM*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/F92GS6DEN8CU)  
-  *Issued: May 2024*  
-  I learned how to:
-  - Apply data preparation techniques and manage bias-variance tradeoffs to optimize model performance. 
-  - Implement core machine learning algorithms, including linear regression, decision trees, kmeans and SVM, for classification, regression and clustering tasks.
-  - Evaluate model performance using metrics, cross-validation, and hyperparameter tuning to ensure accuracy and reliability. 
+  [Voir la certification](https://www.coursera.org/account/accomplishments/certificate/F92GS6DEN8CU)  
+  *Délivrée : Mai 2024*  
+  J'ai appris à :
+  - Appliquer des techniques de préparation de données et gérer le compromis biais-variance pour optimiser les performances des modèles.
+  - Implémenter les principaux algorithmes de machine learning (régression linéaire, arbres de décision, k-means, SVM) pour les tâches de classification, régression et clustering.
+  - Évaluer la performance des modèles avec des métriques, la validation croisée et l'optimisation d'hyperparamètres pour garantir précision et fiabilité.
 
 - **Exploratory Data Analysis for Machine Learning** — *IBM*  
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/E7Q9D1E6UYD6)  
-  *Issued: August 2024*  
-  I learned how to:
-  - Retrieve data from multiple data sources: SQL, NoSQL databases, APIs, Cloud 
-  - Describe and use common feature selection and feature engineering techniques
-  - Handle categorical and ordinal features, as well as missing values
-  - Use a variety of techniques for detecting and dealing with outliers
-  - Use a variety of scaling techniques
+  [Voir la certification](https://www.coursera.org/account/accomplishments/certificate/E7Q9D1E6UYD6)  
+  *Délivrée : Août 2024*  
+  J'ai appris à :
+  - Extraire des données depuis plusieurs sources (bases de données SQL, NoSQL, APIs, Cloud).
+  - Appliquer des techniques de sélection et d'ingénierie des caractéristiques.
+  - Gérer les variables catégorielles, ordinales et les valeurs manquantes.
+  - Détecter et traiter les outliers avec différentes méthodes.
+  - Utiliser des techniques de mise à l'échelle des données.
+
