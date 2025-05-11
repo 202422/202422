@@ -14,6 +14,9 @@ Passionate about harnessing data insights to drive meaningful and impactful deci
 - 🔍 Demonstrated expertise in transforming data into actionable insights using predictive modeling, machine learning, and advanced analytics.
 
 ## ✍️ Meaningful quotes
+
+*Seneca*: **`Luck Is What Happens When Preparation Meets Opportunity`**
+
 *African proverb*: **`He who lived without being noticed will die without being noticed`**
 
 *Ralph Waldo Emerson*: **`To know even one life has breathed easier because you have lived. This is to have succeeded`**
