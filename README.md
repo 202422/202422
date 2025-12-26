@@ -8,7 +8,7 @@ Passionate about harnessing data insights to drive meaningful and impactful deci
 
 ## About Me ✨
 - 📊 Aspiring Data Scientist and Machine Learning Enthusiast with academic and industry experience.
-- 🏦 Experience as a Data scientist intern at [Technocolabs Software](https://www.technocolabs.com/) and Machine learning/Deep learning researcher at [ENSIAS](https://ensias.um5.ac.ma/).
+- 🏦 Experience as a Data intern at [Commonshare](https://www.commonshare.com/), Data scientist intern at [Technocolabs Software](https://www.technocolabs.com/) and Machine learning/Deep learning researcher at [ENSIAS](https://ensias.um5.ac.ma/).
 - 🎓 Second Year student at ENSIAS, National Higher School of Computer Science and Systems Analysis, with a DEUG in mathematics.
 - 🌐 Bilingual: Proficient in English and native in French, facilitating seamless global collaboration.
 - 🔍 Demonstrated expertise in transforming data into actionable insights using predictive modeling, machine learning, and advanced analytics.
@@ -36,6 +36,37 @@ Passionate about harnessing data insights to drive meaningful and impactful deci
 | **Web Development**        | J2EE, html, css, Eclipse, MySQL, PHP, LARAVEL                             |
 
 ## Experience 💼
+
+### **Data Intern**  
+**[Commonshare](https://www.commonshare.com/)**, Morocco, Tanger (July 2025 - Setpember 2025) 
+
+* The main objective of the internship project was to **design and implement a fully automated ETL pipeline** for company data.
+
+* The pipeline automatically:
+
+  * Extracts company data from the **USDA website** and external company web pages.
+  * Cleans and standardizes raw data.
+  * Performs **feature engineering using TF-IDF**.
+  * Classifies companies based on their products using **Logistic Regression** and **Random Forest** models.
+
+* The processed and classified data is stored in a **PostgreSQL database**, organized into structured tables:
+
+  * Company details
+  * Contact information
+  * Product categories
+
+* **Apache Airflow** is used to automate and schedule the workflow.
+
+* **Apache Spark** enables distributed processing for large-scale data handling.
+
+* The entire system is containerized and deployed using **Docker**.
+
+* The pipeline runs on a **weekly schedule**, ensuring continuously updated and structured datasets.
+
+* The machine learning models achieved **high classification accuracy**, significantly reducing manual data processing.
+
+
+---
 
 ### **Data Scientist Intern**  
 **[Technocolabs Software](https://www.technocolabs.com/)**, India, Remote (Jun 2024 - Aug 2024) 
