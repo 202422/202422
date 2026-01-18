@@ -111,6 +111,31 @@ During this internship, the project I worked on involved imputing values into da
 
 ## Certifications 🏅
 
+
+- **Docker for Beginners with Hands-on labs** - *KodeKloud*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/LY79H3SHN4IX)  
+  *Issued: October 2025*  
+  **Skills learned:** Docker, Application Deployment, Docker Products, Docker Swarm, Google Kubernetes Engine (GKE)
+
+
+- **Time series** - *Kaggle*  
+  [View Certificate](https://www.kaggle.com/learn/certification/haroldcompaor/time-series)  
+  *Issued: October 2025*  
+  **Skills learned:** Time Series Forecasting, Time Series Analysis, Data Visualization, Machine Learning, Moving Averages, Feature engineering, Fourier Analysis, XGBoost, Scikit-Learn
+
+
+- **Data Analysis Using Pyspark** - *Coursera*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/5MFI1LL9BH9D)  
+  *Issued: September 2025*  
+  **Skills learned:** Data Analysis, PySpark, Matplotlib, Distributed Computing, Data Cleaning
+
+
+- **Machine Learning Pipelines with Azure ML Studio** - *Coursera*   
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/2YA844222X7E)  
+  *Issued: September 2025*  
+  **Skills learned:** Microsoft Azure,  Cloud Deployment, Model Deployment, Data Science, No-Code Development, Predictive Modeling, Classification Algorithms
+
+
 - **Machine Learning with Python** — *IBM*  
   [View Certificate](https://www.coursera.org/account/accomplishments/certificate/F92GS6DEN8CU)  
   *Issued: May 2024*  
@@ -122,7 +147,3 @@ During this internship, the project I worked on involved imputing values into da
   *Issued: August 2024*  
   **Skills learned:** Statistical Analysis, Anomaly Detection, Data Cleansing, Data Quality, Data Analysis, Statistical Hypothesis Testing, Probability & Statistics, Statistical Methods, Statistical Inference, Feature Engineering, Data Preprocessing, Data Transformation, Data Manipulation
 
-- **Machine Learning Pipelines with Azure ML Studio** - *Coursera*   
-  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/2YA844222X7E)  
-  *Issued: September 2025*  
-  **Skills learned:** Microsoft Azure,  Cloud Deployment, Model Deployment, Data Science, No-Code Development, Predictive Modeling, Classification Algorithms
