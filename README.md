@@ -112,6 +112,14 @@ During this internship, the project I worked on involved imputing values into da
 ## Certifications 🏅
 
 
+- **Generative AI Engineering with LLMs** - *IBM*  
+  [View Certificate](https://www.coursera.org/account/accomplishments/specialization/certificate/JAKP49BWKX8W)  
+  *Issued: December 2025*  
+  **Skills learned:** Performance Tuning, Data Pipelines, Text Mining, Data Ethics, Generative Model Architectures, Recurrent Neural Networks (RNNs), Prompt Engineering, Large Language, Modeling, PyTorch (Machine Learning Library), Hugging Face, Artificial Intelligence, Natural Language Processing
+
+
+
+
 - **Docker for Beginners with Hands-on labs** - *KodeKloud*  
   [View Certificate](https://www.coursera.org/account/accomplishments/certificate/LY79H3SHN4IX)  
   *Issued: October 2025*  
