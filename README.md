@@ -1,15 +1,14 @@
 # Hi! 👋 I'm COMPAORE Yolemba Harold Judicaël
 
-🔍 Junior Data Scientist | 📊 Machine Learning & Statistical Analysis Enthusiast 
-Passionate about harnessing data insights to drive meaningful and impactful decisions.
+🔍 Junior Data Scientist | 🤖 LLMs, AI Agents & RAG Developer | 📊 Machine Learning & Statistical Analysis Enthusiast
+Passionate about leveraging data, natural language processing and generative AI to build intelligent systems that transform insights into impactful, real-world decisions.
 
-[![Resume](https://img.shields.io/badge/My%20Resume-red?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/202422/202422/blob/main/Resume)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harold18/)
 
 ## About Me ✨
-- 📊 Aspiring Data Scientist and Machine Learning Enthusiast with academic and industry experience.
+- 📊 Aspiring Data Scientist and AI engineer Enthusiast with academic and industry experience.
 - 🏦 Experience as a Data intern at [Commonshare](https://www.commonshare.com/), Data scientist intern at [Technocolabs Software](https://www.technocolabs.com/) and Machine learning/Deep learning researcher at [ENSIAS](https://ensias.um5.ac.ma/).
-- 🎓 Second Year student at ENSIAS, National Higher School of Computer Science and Systems Analysis, with a DEUG in mathematics.
+- 🎓 Third Year student at ENSIAS, National Higher School of Computer Science and Systems Analysis, with a DEUG in mathematics.
 - 🌐 Bilingual: Proficient in English and native in French, facilitating seamless global collaboration.
 - 🔍 Demonstrated expertise in transforming data into actionable insights using predictive modeling, machine learning, and advanced analytics.
 
@@ -26,14 +25,15 @@ Passionate about harnessing data insights to drive meaningful and impactful deci
 
 ## Technical Skills 🛠️
 
-| **Category**               | **Tools/Technologies**                                               |
-|----------------------------|--------------------------------------------------------------------|
-| **Programming Languages**  | Python (NumPy, Pandas, Scikit-learn, Tensorflow, keras, HDBSCAN), SQL, R, Java |
-| **Data Visualization**     | Tableau, Matplotlib, seaborn, plotly express                            |
-| **Statistical Analysis**   | Exploratory Data Analysis, Hypothesis Testing                |
-| **Machine Learning**       | LinearRegression, SVM, RandomForest, AdaBoost, DecisionTree, KNN, GradientBoosting, LogisticRegressor, KMeans, DBSCAN                |
-| **Deep Learning**   | MLP, RNN, LSTM, CNN          |
-| **Web Development**        | J2EE, html, css, Eclipse, MySQL, PHP, LARAVEL                             |
+| **Category**               | **Tools/Technologies**                                                                 |
+|----------------------------|----------------------------------------------------------------------------------------|
+| **Programming Languages**  | Python (NumPy, Pandas, Scikit-learn, Tensorflow, Keras, HDBSCAN), SQL, R, Java         |
+| **Data Visualization**     | Tableau, Matplotlib, Seaborn, Plotly Express                                          |
+| **Statistical Analysis**   | Exploratory Data Analysis, Hypothesis Testing                                         |
+| **Machine Learning**       | Linear Regression, SVM, Random Forest, AdaBoost, Decision Tree, KNN, Gradient Boosting, Logistic Regression, K-Means, DBSCAN |
+| **Deep Learning**          | MLP, RNN, LSTM, CNN                                                                    |
+| **Generative AI**          | LLMs, Prompt Engineering, RAG, AI Agents, NLP, Transformers, LangChain, Vector Databases (FAISS, Chroma) |
+| **Web Development**        | J2EE, HTML, CSS, Eclipse, MySQL, PHP, Laravel  
 
 ## Experience 💼
 
@@ -100,7 +100,7 @@ During this internship, the project I worked on involved imputing values into da
 - **National Higher School of Computer Science and Systems Analysis (ENSIAS)**  
   **Engineer’s degree**, Data Science and IoT  
   *2023.09 - 2026.07*     
-  **Relevant Coursework**: J2ee Web Developpment, Statistics, Data Visualization, DataBases,  Network, Machine Learning, Deep Learning,  NLP, ETL.
+  **Relevant Coursework**: J2ee Web Developpment, Statistics, Data Visualization, DataBases,  Network, Machine Learning, Deep Learning,  NLP, ETL, generative AI
 
 - **Faculty of science/University Abdelmalek ESSAADI Tétouan**  
   **DEUG (General Academic Studies Diploma)**, Mathematics and computer science       
@@ -114,17 +114,10 @@ During this internship, the project I worked on involved imputing values into da
 - **Machine Learning with Python** — *IBM*  
   [View Certificate](https://www.coursera.org/account/accomplishments/certificate/F92GS6DEN8CU)  
   *Issued: May 2024*  
-  I learned how to:
-  - Apply data preparation techniques and manage bias-variance tradeoffs to optimize model performance. 
-  - Implement core machine learning algorithms, including linear regression, decision trees, kmeans and SVM, for classification, regression and clustering tasks.
-  - Evaluate model performance using metrics, cross-validation, and hyperparameter tuning to ensure accuracy and reliability. 
+  **Skills learned:** Model Evaluation, Applied Machine Learning, Decision Tree Learning, Predictive Modeling, Dimensionality Reduction, Feature Engineering, Supervised Learning, Machine Learning, Python Programming, Classification Algorithms, Scikit Learn, Logistic Regression, Unsupervised Learning, Regression Analysis
 
+  
 - **Exploratory Data Analysis for Machine Learning** — *IBM*  
   [View Certificate](https://www.coursera.org/account/accomplishments/certificate/E7Q9D1E6UYD6)  
   *Issued: August 2024*  
-  I learned how to:
-  - Retrieve data from multiple data sources: SQL, NoSQL databases, APIs, Cloud 
-  - Describe and use common feature selection and feature engineering techniques
-  - Handle categorical and ordinal features, as well as missing values
-  - Use a variety of techniques for detecting and dealing with outliers
-  - Use a variety of scaling techniques
+  **Skills learned:** Statistical Analysis, Anomaly Detection, Data Cleansing, Data Quality, Data Analysis, Statistical Hypothesis Testing, Probability & Statistics, Statistical Methods, Statistical Inference, Feature Engineering, Data Preprocessing, Data Transformation, Data Manipulation
