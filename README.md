@@ -121,3 +121,8 @@ During this internship, the project I worked on involved imputing values into da
   [View Certificate](https://www.coursera.org/account/accomplishments/certificate/E7Q9D1E6UYD6)  
   *Issued: August 2024*  
   **Skills learned:** Statistical Analysis, Anomaly Detection, Data Cleansing, Data Quality, Data Analysis, Statistical Hypothesis Testing, Probability & Statistics, Statistical Methods, Statistical Inference, Feature Engineering, Data Preprocessing, Data Transformation, Data Manipulation
+
+- **Machine Learning Pipelines with Azure ML Studio** - *Coursera*   
+  [View Certificate](https://www.coursera.org/account/accomplishments/certificate/2YA844222X7E)  
+  *Issued: September 2025*  
+  **Skills learned:** Microsoft Azure,  Cloud Deployment, Model Deployment, Data Science, No-Code Development, Predictive Modeling, Classification Algorithms
